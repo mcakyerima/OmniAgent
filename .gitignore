@@ -1,0 +1,61 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+venv/
+env/
+ENV/
+.venv/
+.ENV/
+
+# VS Code settings
+.vscode/
+
+# Mac/Windows system files
+.DS_Store
+Thumbs.db
+
+# Python environment files
+*.env
+*.env.*
+*.pyenv
+*.python-version
+
+# Log files
+*.log
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# PyInstaller
+dist/
+build/
+*.spec
+
+# mypy
+.mypy_cache/
+.dmypy.json
+dmypy.json
+
+# Coverage reports
+htmlcov/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+
+# Pytest
+.pytest_cache/
+
+# Test results
+test-results/
+
+# Optional: Ignore any files from ElevenLabs if stored locally
+elevenlabs_temp/
+
+# Optional: Ignore local config
+config/settings_local.py
