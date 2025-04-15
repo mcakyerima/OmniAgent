@@ -1,4 +1,3 @@
-```markdown
 # OmniAgent 🎙️🌐🤖
 
 **OmniAgent** is your intelligent voice-activated assistant powered by Python and ElevenLabs. Inspired by J.A.R.V.I.S, this assistant can search the web, generate content, create websites, speak in multiple languages, and interact using natural voice.
@@ -105,4 +104,3 @@ Contributions are welcome! Please open an issue or submit a pull request.
 ## 📜 License
 
 MIT License © 2025 Mohammed Kaka
-```
